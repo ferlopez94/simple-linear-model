@@ -1,5 +1,5 @@
 # Linear model from scratch
-In this notebook, you will learn how to create a linear model from scratch using gradient descent.
+In this notebook, you will learn how to create a linear model from scratch and with Keras, using gradient descent.
 
 The code is based on [fast.ai Deep Learning MOOC](http://course.fast.ai).
 
